@@ -1,100 +1,101 @@
-1,18
-1,22
-0,24
-1,21
-1,21
-1,24
-1,21
-0,21
-1,21
-0,25
-1,18
-0,25
-0,20
-0,24
-0,22
-0,20
-0,21
-0,18
-0,18
-0,20
-1,18
-1,18
-1,22
-1,20
-1,22
-0,24
-1,22
-0,18
-1,22
-1,20
-0,23
-1,21
-0,22
-1,25
-0,23
-1,20
-1,22
-1,25
-1,22
-0,24
-1,22
-0,19
-0,21
-1,21
-1,18
-0,19
-0,20
-1,22
-1,25
-0,23
-1,25
-0,19
-1,24
-0,25
-1,18
-0,23
-0,18
-1,24
-1,24
-0,19
-0,20
-1,21
-1,21
-0,24
-1,18
-1,19
-1,18
-0,19
-0,24
-0,19
-0,23
-1,24
-0,21
-1,20
-0,20
-1,23
-1,24
-1,18
-0,22
-0,25
-0,18
-0,18
-0,18
-1,25
-1,23
-0,19
-1,21
-0,18
-0,25
-1,18
-1,18
-1,21
-1,18
-0,23
-0,23
-0,22
-1,19
-1,20
-0,21
-1,23
+Gender,Age,Work,College
+1,18,Quality Engineer,1
+0,21,Java Developer,0
+0,22,Software developer,0
+1,21,Python Developer,0
+1,20,Frontend Developer,1
+0,24,Software developer,0
+0,21,Frontend Developer,0
+1,21,UI/UX design,1
+0,21,Java Developer,0
+1,22,Java Developer,1
+1,20,Python Developer,0
+1,20,Software developer,0
+0,20,Database Manager,1
+0,19,Frontend Developer,0
+1,22,Quality Assurance,1
+0,22,Database Manager,1
+1,20,Python Developer,1
+1,21,Frontend Developer,1
+1,23,Frontend Developer,1
+0,19,Python Developer,0
+1,24,Frontend Developer,1
+1,20,Software developer,1
+0,21,Test engineer,1
+1,18,Frontend Developer,1
+0,24,Frontend Developer,0
+1,21,Software developer,0
+1,18,Database Manager,1
+0,22,Test engineer,0
+0,18,Quality Assurance,1
+1,20,UI/UX design,1
+0,25,Test engineer,0
+1,21,Python Developer,1
+0,19,Quality Engineer,0
+1,24,Quality Assurance,0
+1,23,Java Developer,0
+1,19,Test engineer,0
+0,18,Software developer,0
+1,25,Quality Engineer,1
+1,25,Python Developer,1
+1,23,Python Developer,1
+0,25,Frontend Developer,0
+0,21,Test engineer,0
+0,24,Frontend Developer,0
+0,18,Java Developer,0
+1,25,Database Manager,1
+0,24,UI/UX design,1
+1,21,Test engineer,1
+0,25,Quality Assurance,0
+0,23,Quality Assurance,0
+1,18,Software developer,1
+1,25,UI/UX design,0
+0,19,Test engineer,0
+0,21,UI/UX design,1
+0,21,Java Developer,1
+1,25,Frontend Developer,1
+0,20,Python Developer,0
+0,19,Database Manager,0
+0,25,Test engineer,1
+0,18,UI/UX design,1
+1,19,Test engineer,1
+0,20,Test engineer,1
+0,21,Database Manager,1
+1,19,Quality Engineer,0
+1,24,Software developer,0
+1,18,Quality Engineer,1
+1,24,Test engineer,1
+1,20,Quality Engineer,1
+0,18,Test engineer,1
+1,19,Software developer,1
+1,19,Database Manager,0
+1,21,UI/UX design,0
+0,23,Database Manager,1
+1,19,Quality Engineer,0
+0,19,Python Developer,0
+0,25,Java Developer,1
+1,25,UI/UX design,0
+1,23,Quality Engineer,0
+1,23,Database Manager,1
+0,21,Python Developer,1
+1,23,Frontend Developer,1
+0,22,Frontend Developer,1
+0,24,Database Manager,0
+0,20,Quality Engineer,1
+0,25,Frontend Developer,0
+1,21,Python Developer,0
+0,22,Python Developer,0
+1,22,Python Developer,0
+1,20,Python Developer,1
+0,24,Frontend Developer,1
+0,24,Java Developer,0
+1,18,Quality Assurance,1
+0,19,Quality Engineer,1
+1,19,Java Developer,0
+1,21,UI/UX design,0
+0,18,Frontend Developer,0
+0,21,Java Developer,1
+1,19,Quality Engineer,0
+0,20,Database Manager,1
+1,18,Database Manager,1
+0,20,Quality Assurance,1
