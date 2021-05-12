@@ -14,4 +14,4 @@ with open('dataset.csv', 'w', newline='') as file:
         work = random.choice(listOfWorks)
         isCollege = random.randint(0, 1)
         writer.writerow([gender, age, work, isCollege])
-    # end of the file
+    # end of the file test
