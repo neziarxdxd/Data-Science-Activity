@@ -3,8 +3,8 @@ import random
 listOfWorks = ["Quality Assurance", "Software developer",
                "Quality Engineer", "Test engineer", "UI/UX design",
                "Java Developer", "Python Developer",
-               "Frontend Developer", "Database Manager"
-               ]
+               "Frontend Developer", "Database Manager"]
+# file reading
 with open('dataset.csv', 'w', newline='') as file:
     writer = csv.writer(file)
     writer.writerow(["Gender", "Age", "Work", "College"])
@@ -14,4 +14,4 @@ with open('dataset.csv', 'w', newline='') as file:
         work = random.choice(listOfWorks)
         isCollege = random.randint(0, 1)
         writer.writerow([gender, age, work, isCollege])
-    # end of the file test
+# end of the file test
