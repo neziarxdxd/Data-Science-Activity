@@ -1,0 +1,6 @@
+Features: 
+1. Table of elements 
+2. Image to Text using Tensorflow data trained models 
+3. From our own API 
+4. Generate 3D atoms 
+5. 

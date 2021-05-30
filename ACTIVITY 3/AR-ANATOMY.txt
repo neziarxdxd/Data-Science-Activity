@@ -1,0 +1,31 @@
+Feature: 
+- AR
+- Drawing to AR 
+- Lessons 
+- Search meanings 
+- 
+Draw this (feature) 
+Circulatory - heart
+Respiratory - lungs (simple)
+Nervous  - head with brain
+
+
+
+Core lesson:
+- Human Anatomy
+1. Brain
+2. Respiratory 
+Future feature:
+Games 
+
+PROBLEM 
+1. Pandemic
+2. Module, already made drawing, no interaction,
+
+SOLUTION
+1. student can learn by interactivity 
+
+Feature 
+1. Drawn image to Interactive learning page, with GIFs with image with definition of terms 
+
+2. AR (too much time to consume, too much work to look for 3D GIF's or videos )
